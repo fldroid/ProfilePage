@@ -7,13 +7,14 @@
 
     <ImageView
         android:id="@+id/mWidgetProfileRowIconImg"
-        android:layout_width="50dp"
-        android:layout_height="80dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
         android:layout_marginLeft="10dp" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
         android:layout_weight="1.0"
         android:orientation="vertical">
 
@@ -21,13 +22,17 @@
             android:id="@+id/mWidgetProfileRowName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="top" />
+            android:layout_gravity="top"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
 
         <TextView
             android:id="@+id/mWidgetProfileRowId"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="bottom" />
+            android:layout_gravity="bottom"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
     </LinearLayout>
 
     <ImageView
