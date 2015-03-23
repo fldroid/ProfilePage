@@ -2,7 +2,7 @@
 This is a simple and fast way to create a profile page.You just need code a small amount of code.
 
 ![Screenshot](https://github.com/lsnx/ProfilePage/blob/master/screenshot.png)
-example
+##example
 ``` java
 private void initializeView() {
         ArrayList<GroupDescriptor> groupDescriptors = new ArrayList<GroupDescriptor>();
