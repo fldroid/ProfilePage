@@ -1,5 +1,5 @@
 # ProfilePage
-This is a simple and fast way to create a profile page.You just need code a small amount of code.
+This is a simple and fast way to create a profile page.You just need code a small amount of code rather than layout.xml.
 
 ![Screenshot](https://github.com/lsnx/ProfilePage/blob/master/screenshot.png)
 ##example
